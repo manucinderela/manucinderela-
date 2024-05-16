@@ -4,4 +4,4 @@ me chamo emanuelly
 - estou me desenvolvendo na linguagem javasvript
 - vou estar utilizando este espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
-![](https://tenor.com/pt-BR/view/hi-gif-27097219)
+![](https://tenor.com/bZRn5.gif)
